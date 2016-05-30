@@ -1,0 +1,14 @@
+{
+    "name": "game-master-toolbox-api",
+    "main": "server.js",
+    "dependencies": {
+        "bcrypt": "~0.8.6",
+        "body-parser": "~1.15.1",
+        "express": "~4.13.4",
+        "jwt-simple": "~0.5.0",
+        "mongoose": "~4.4.19",
+        "morgan": "~1.7.0",
+        "passport": "~0.3.2",
+        "passport-jwt": "~2.0.0"
+    }
+}
