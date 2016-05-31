@@ -2,6 +2,7 @@
     "name": "game-master-toolbox-api",
     "main": "server.js",
     "dependencies": {
+        "typescript": "*",
         "bcrypt": "~0.8.6",
         "body-parser": "~1.15.1",
         "express": "~4.13.4",
