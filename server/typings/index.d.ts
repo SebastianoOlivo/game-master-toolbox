@@ -1,3 +1,5 @@
+/// <reference path="globals/bcrypt/index.d.ts" />
+/// <reference path="globals/body-parser/index.d.ts" />
 /// <reference path="globals/express-serve-static-core/index.d.ts" />
 /// <reference path="globals/express/index.d.ts" />
 /// <reference path="globals/jwt-simple/index.d.ts" />

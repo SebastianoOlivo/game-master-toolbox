@@ -2,6 +2,8 @@
   "name": "game-master-toolbox-api",
   "dependencies": {},
   "globalDependencies": {
+    "bcrypt": "registry:dt/bcrypt#0.0.0+20160316155526",
+    "body-parser": "registry:dt/body-parser#0.0.0+20160317120654",
     "express": "registry:dt/express#4.0.0+20160317120654",
     "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160322035842",
     "jwt-simple": "registry:dt/jwt-simple#0.2.0+20160316155526",
